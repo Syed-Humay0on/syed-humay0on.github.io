@@ -1,0 +1,23 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>syed-humay0on.github.io/</id>
+  <title>Syed Humay0on</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-06-15T03:56:06+05:00</updated>
+  <author>
+    <name>Syed Humay0on Aziz</name>
+    <uri>syed-humay0on.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="syed-humay0on.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="syed-humay0on.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Syed Humay0on Aziz </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+</feed>
+
+
